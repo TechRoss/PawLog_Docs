@@ -53,7 +53,7 @@ not the main repo file browser. See instructions below.
 Steps when ready:
 1. Enable the Wiki on the GitHub repo (Settings → Features → Wiki)
 2. Create the first page manually on GitHub to initialise the wiki repo
-3. Clone the wiki repo: `git clone https://github.com/YOUR_USERNAME/PawLog_Docs.wiki.git`
+3. Clone the wiki repo: `git clone https://github.com/TechRoss/PawLog_Docs.wiki.git`
 4. Copy all `.md` files from this folder into the cloned wiki repo
 5. Commit and push
 
