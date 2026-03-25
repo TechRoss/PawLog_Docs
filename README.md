@@ -1,6 +1,6 @@
 # PawLog Docs
 
-User-facing help documentation for the [PawLog](https://github.com/YOUR_USERNAME/PawLog) app — a .NET MAUI pet care companion for Android.
+User-facing help documentation for the [PawLog](https://github.com/TechRoss/PawLog) app — a .NET MAUI pet care companion for Android.
 
 ---
 
@@ -38,7 +38,7 @@ PawLog helps you stay on top of everything your pet needs every day. Daily care 
 
 ## Issues & Feature Requests
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/YOUR_USERNAME/PawLog_Docs/issues) and we'll take a look.
+Found a bug or have a suggestion? [Open an issue](https://github.com/TechRoss/PawLog_Docs/issues) and we'll take a look.
 
 ---
 
