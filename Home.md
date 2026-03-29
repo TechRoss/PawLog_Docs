@@ -4,7 +4,7 @@
 
 PawLog is a pet care companion app designed to help you stay on top of everything your dog (or any other pet!) needs every single day. Whether it's a morning walk, a flea treatment, a vet check-up, or just making sure they got their evening medication — PawLog keeps it all in one place so nothing slips through the cracks.
 
-<img width="1080" height="2400" alt="Screenshot_1774781050" src="https://github.com/user-attachments/assets/a67c77f5-6bbf-4b31-8848-33c11d514e3b" />
+<img width="360" height="800" alt="Screenshot_1774781050" src="https://github.com/user-attachments/assets/a67c77f5-6bbf-4b31-8848-33c11d514e3b" />
 
 ---
 
