@@ -58,3 +58,21 @@ PawLog automatically decrements the stock count **once per day** when a medicati
 
 1. From the **Medications** screen, tap the pencil ✏️ icon on the medication card.
 2. Make your changes and tap **Save**, or scroll to the bottom and tap **Delete Medication** to remove it.
+
+---
+
+## Medication History
+
+The **Medication History** screen gives you a full log of every dose that has been given, going back 90 days.
+
+To open it: go to the **Health** tab and tap **Medication History 📋**.
+
+The log is grouped by date and shows:
+
+- The medication name
+- The dose time (e.g. "Morning", "Evening") where applicable
+- The exact time the dose was recorded
+
+Entries are written automatically whenever you mark a dose as given, and removed if you untick it. If you edit the time a dose was given, the history entry updates to match.
+
+> 📷 *Screenshot: Medication History screen showing entries grouped under "Today" and "Yesterday" headings*

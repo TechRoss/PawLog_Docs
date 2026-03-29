@@ -24,10 +24,13 @@ The backup file contains everything PawLog knows about your pets:
 - All care tasks and their settings
 - Care logs (completed and excused)
 - Medications, dose times, and dose logs
+- Medication history (every dose given)
 - Weight records
 - Vet visit records
+- Vaccinations
 - Emergency contacts
 - Achievements and streaks
+- Walk history (duration and distance)
 
 ---
 

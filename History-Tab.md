@@ -25,6 +25,7 @@ The **Walks** sub-tab shows a history of all completed walks, organised by:
 
 - **Date** — walks are grouped by day
 - **Duration** — shown in hours, minutes, and seconds (e.g. "42m 15s")
+- **Distance** — shown if GPS was active (e.g. "1.2 mi" or "2.0 km"), in your preferred units
 - **Task name** — which walk task it was (e.g. "Morning Walk", "Evening Walk")
 
 Only tasks with **Walk Tracking** enabled will appear here. This gives you a satisfying record of how much time you've spent out and about with your pet.

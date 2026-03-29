@@ -35,7 +35,10 @@ The timer begins immediately.
 While a walk is in progress you can see:
 
 - **Live timer** — hours, minutes, and seconds elapsed
-- **GPS tracking** — your location is tracked throughout the walk (requires location permission)
+- **Distance** — updates as you walk, shown in miles or kilometres depending on your unit preference
+- **GPS tracking** — your location is tracked throughout the walk, even when the screen is off (requires location permission)
+
+A **"Walk in progress 🐾"** notification appears in your status bar while tracking. This keeps the GPS running in the background so the distance is accurate even if you lock your phone or switch to another app.
 
 The walk is saved when you tap **Start Walk**, so if you navigate away and come back, the timer is still running correctly.
 
@@ -74,3 +77,4 @@ Walk tracking uses your device's GPS. For best results:
 - Grant PawLog location permission when prompted
 - Make sure location services are turned on in your phone's settings
 - GPS accuracy improves once you're outdoors and away from buildings
+- The persistent notification in your status bar confirms GPS is running — do not dismiss it mid-walk or tracking will stop

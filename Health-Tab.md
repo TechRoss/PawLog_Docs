@@ -19,6 +19,8 @@ At the top of the Health tab is a **Due Today** section. This shows any medicati
 - **Medications** — opens the full medication management screen. See [[Medications]].
 - **Weight** — opens the weight history and logging screen. See [[Weight Tracking]].
 - **Vet Visits** — opens the vet visit journal. See [[Vet Visits]].
+- **Vaccinations** — tracks vaccination schedules and due dates.
+- **Medication History** — a full log of every dose given, grouped by date. See [[Medications#medication-history]].
 
 ---
 
