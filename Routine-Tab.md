@@ -10,7 +10,7 @@ The **Routine** tab is where your daily pet care happens. Think of it as a to-do
 
 Each task appears as a card showing:
 
-- The task name (e.g. "Morning Walk", "Evening Meal", "Flea Treatment")
+- The task name (e.g. "Morning Walk", "Teeth Brushing", "Flea Treatment")
 - Whether it has been completed today
 - The current streak for that task
 

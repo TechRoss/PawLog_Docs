@@ -31,7 +31,7 @@ That's it — your pet is in the app! You can now start building out their daily
 
 Once your first pet is saved, we recommend doing these things to get the most out of PawLog:
 
-- **Add daily tasks** on the **Routine** tab (walks, meals, brushing, etc.) — see [[Managing Tasks]]
+- **Add daily tasks** on the **Routine** tab (walks, brushing, grooming, etc.) — see [[Managing Tasks]]
 - **Add any medications** on the **Health** tab — see [[Medications]]
 - **Set a daily reminder notification** in **More → Notification Settings** — see [[Notifications]]
 - **Add emergency contacts** in **More → Emergency Contacts** — see [[Emergency Contacts]]

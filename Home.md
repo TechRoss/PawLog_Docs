@@ -10,7 +10,7 @@ PawLog is a pet care companion app designed to help you stay on top of everythin
 
 ## What PawLog Helps You With
 
-- **Daily care routines** — tick off walks, meals, grooming, and any task you set up, day by day
+- **Daily care routines** — tick off walks, grooming, and any task you set up, day by day
 - **Medications** — track what needs to be given and when, with stock level monitoring
 - **Vet visits** — keep a full medical history journal for your pet
 - **Weight tracking** — log weights over time and see how your pet is doing
