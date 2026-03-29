@@ -4,7 +4,7 @@
 
 When you open PawLog for the first time, you'll see a clean, empty app — there's no sample data to wade through. The first thing to do is add your pet.
 
-> 📷 *Screenshot: Empty home screen prompting you to add a pet*
+<img width="360" height="800" alt="Screenshot_1774781050" src="https://github.com/user-attachments/assets/a67c77f5-6bbf-4b31-8848-33c11d514e3b" />
 
 ---
 
