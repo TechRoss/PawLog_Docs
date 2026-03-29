@@ -23,7 +23,7 @@ When you open PawLog for the first time, you'll see a clean, empty app — there
 
 That's it — your pet is in the app! You can now start building out their daily routine and health records.
 
-> 📷 *Screenshot: Pet profile form filled in for Rigby*
+<img width="360" height="800" alt="Screenshot_1774781520" src="https://github.com/user-attachments/assets/dc47da13-b4c7-440b-aa36-b28c5bbc1099" />
 
 ---
 
