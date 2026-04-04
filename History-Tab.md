@@ -31,3 +31,9 @@ The **Walks** sub-tab shows a history of all completed walks, organised by:
 Only tasks with **Walk Tracking** enabled will appear here. This gives you a satisfying record of how much time you've spent out and about with your pet.
 
 > 📷 *Screenshot: Walks sub-tab showing a list grouped by date, each entry showing the walk task name and duration*
+
+### Editing a Walk
+
+**Swipe left** on any walk entry to reveal the **Edit Walk** action. This lets you manually correct the duration or add/fix the distance — useful when GPS didn't track correctly or you have data from another app such as Samsung Health.
+
+See [[Walk Tracking#Editing a Walk Record]] for full details.

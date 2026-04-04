@@ -70,6 +70,25 @@ If you have two or more pets with walk-tracking tasks enabled, the **"Who's comi
 
 ---
 
+## Editing a Walk Record
+
+If GPS tracking didn't work correctly — or you have accurate data from another source such as Samsung Health — you can manually correct the duration and distance of any completed walk.
+
+1. Open the **History** tab and tap **Walks**.
+2. Find the walk entry you want to correct.
+3. **Swipe left** on the row to reveal the **Edit Walk** action.
+4. Tap **Edit Walk** — the Edit Walk screen opens, pre-filled with the values the app recorded.
+5. Adjust the **Duration** (hours and minutes) and/or **Distance** to match your actual data.
+6. Tap **Save**.
+
+The walk history updates immediately to show the corrected values.
+
+> **Tip:** If GPS recorded no distance at all (the session saved only a duration), the Distance field will be blank — just type in your distance from Samsung Health or another app and save.
+
+> 📷 *Screenshot: Swiping left on a walk entry to reveal the "Edit Walk" action*
+
+---
+
 ## GPS Note
 
 Walk tracking uses your device's GPS. For best results:
