@@ -63,7 +63,7 @@ PawLog automatically decrements the stock count **once per day** when a medicati
 
 ## Medication History
 
-The **Medication History** screen gives you a full log of every dose that has been given, going back 90 days.
+The **Medication History** screen gives you a full log of every dose that has been given, going back 90 days. Supplements are excluded — only real medications appear here.
 
 To open it: go to the **Health** tab and tap **Medication History 📋**.
 

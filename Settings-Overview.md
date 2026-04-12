@@ -13,6 +13,7 @@ The **More** tab (the icon at the bottom right of the screen) is your settings a
 | **Emergency Contacts** | Add, edit, call, and navigate to important contacts — see [[Emergency Contacts]] |
 | **Notification Settings** | Set daily reminder times, medication alert times, and Holiday Mode — see [[Notifications]] and [[Holiday Mode]] |
 | **Backup & Restore** | Export your data to a file or restore from a previous backup — see [[Backup and Restore]] |
+| **Help & User Guide** | Opens the PawLog user guide in your browser |
 
 ---
 
